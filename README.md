@@ -9,3 +9,8 @@ Cohort Retention Rates
 
 <img width="767" alt="image" src="https://github.com/user-attachments/assets/5edb350a-7969-461d-a95d-1a536ed9c3f3">
 
+Cohort ARPU Over Time
+
+<img width="766" alt="image" src="https://github.com/user-attachments/assets/414a012b-09bb-4405-a144-06b5bab38af8">
+
+
