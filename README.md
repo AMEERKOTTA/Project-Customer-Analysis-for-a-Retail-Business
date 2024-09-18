@@ -4,3 +4,8 @@
 + Calculated critical business metrics, including Customer Lifetime Value (CLV) and Average Revenue Per User (ARPU), to evaluate customer profitability and revenue generation.
 + Identified high-value customer segments and key retention trends, providing actionable insights to enhance customer engagement and retention strategies.
 + Developed data visualizations (heatmaps, line plots, bar charts) to effectively communicate findings and support data-driven decision-making across marketing, sales, and customer success teams.
+
+Cohort Retention Rates
+
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/5edb350a-7969-461d-a95d-1a536ed9c3f3">
+
